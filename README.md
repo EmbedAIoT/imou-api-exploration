@@ -4,6 +4,7 @@ This repository contain a python notebook that explores the Imou API. The API is
 
 ## Installation
 
+This notebook was ran on python version 3.10.11.
 To run the notebook, you will need to install the following python packages:
     
 ```bash
